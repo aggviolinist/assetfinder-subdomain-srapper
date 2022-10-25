@@ -15,4 +15,5 @@ https://github.com/aggviolinist/subdomain-srapper/blob/main/subdomain-scrapper.s
 ```
 #### Run
 ```
+chmod +x sudomain-scrapper.sh
 ./sudomain-scrapper.sh website
